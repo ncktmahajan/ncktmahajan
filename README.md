@@ -124,10 +124,11 @@ strengths:
 <br/>
 
 <div align="center">
+<a href="https://www.linkedin.com/in/nchikt-mhajn/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80"/>
+</a>
 
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80"/>
-
-<br/><br/>
+<br/>
 
 > *I don't design screens. I design the systems behind them.*
 > *Workflows. Roles. Permissions. Dashboards. Interaction logic.*
