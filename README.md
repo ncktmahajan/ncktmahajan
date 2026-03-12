@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=16&duration=3500&pause=1200&color=00C896&center=true&vCenter=true&width=700&height=40&lines=I+design+systems%2C+not+just+screens.;I+build+what+I+design.;0+%E2%86%92+production+%E2%80%94+end+to+end.;product+design+%C3%97+system+architecture+%C3%97+engineering.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=16&duration=3500&pause=1200&color=00C896&center=true&vCenter=true&width=700&height=40&lines=I+design+systems%2C+not+just+screens.;I+build+what+I+design.;0+%E2%86%92+production+%E2%80%94+end+to+end.;product+design+%C3%97+system+architecture+%C3%97+product+engineering.)
 
 <br/>
 
@@ -45,7 +45,7 @@ name:       Nachiket Mahajan
 location:   Pune, India 🇮🇳
 
 roles:
-  - Product Engineer     →  TypeScript · React · Node.js · NextJS
+  - Product Engineer     →  TypeScript · React · Node.js · Next.js
   - Product Designer     →  End-to-End · Systems · Enterprise UX
   - Infrastructure Builder → DNS · AWS · Self-hosted TLDs
 
