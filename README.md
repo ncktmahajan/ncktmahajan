@@ -24,7 +24,7 @@
 &nbsp;
 [![.ux Registry](https://img.shields.io/badge/.ux_Registry-Live-5b8aff?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0a0a14)](https://registry.nchikt.site)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a14)](mailto:nachiketmahajan15963@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a14)](mailto:mahajnnchikt@gmail.com)
 &nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=ncktmahajan&color=00C896&style=for-the-badge&label=VIEWS)](https://github.com/ncktmahajan)
 
